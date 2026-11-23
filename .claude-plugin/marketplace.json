@@ -1,0 +1,15 @@
+{
+  "name": "argus-creators",
+  "description": "Athena Gaming's Claude plugins: Argus, creator discovery and campaign planning for brands.",
+  "owner": {
+    "name": "Athena Gaming",
+    "email": "hi@athenagaming.gg"
+  },
+  "plugins": [
+    {
+      "name": "argus-creators",
+      "source": "./argus-creators",
+      "description": "Find YouTube and Twitch creators for your brand with Argus."
+    }
+  ]
+}

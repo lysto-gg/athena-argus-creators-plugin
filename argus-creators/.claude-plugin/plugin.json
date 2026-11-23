@@ -1,0 +1,19 @@
+{
+  "name": "argus-creators",
+  "description": "Find YouTube and Twitch creators for your brand with Argus: brand research, a scored creator shortlist, campaign plans with budgets, and a creator brief.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Athena Gaming",
+    "email": "hi@athenagaming.gg",
+    "url": "https://arguscreators.com"
+  },
+  "homepage": "https://arguscreators.com",
+  "license": "UNLICENSED",
+  "keywords": [
+    "influencer marketing",
+    "creators",
+    "youtube",
+    "twitch",
+    "campaigns"
+  ]
+}
