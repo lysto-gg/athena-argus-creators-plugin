@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "argus": {
+    "argus-creators": {
       "type": "http",
       "url": "https://arguscreators.com/mcp"
     }
